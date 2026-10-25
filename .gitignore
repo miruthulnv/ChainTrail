@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Audit log data and demo backups
+data/
+*.bak
+
+# Workspace system skills
+skills/
